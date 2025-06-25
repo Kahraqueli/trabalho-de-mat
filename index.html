@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conselhos de Lugares</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Conselhos de Lugares</h1>
+        <p>Ideias para jantar, tomar café e festejar na sua cidade</p>
+    </header>
+
+    <main>
+        <section class="categoria">
+            <h2>🍽️ Onde Jantar</h2>
+            <p>Precisa de um lugar legal para jantar? Clique abaixo:</p>
+            <button onclick="sugerirLugar('jantar')">Sugerir Restaurante</button>
+            <p class="sugestao" id="jantar-sugestao"></p>
+        </section>
+
+        <section class="categoria">
+            <h2>☕ Onde Tomar Café</h2>
+            <p>Encontre um café aconchegante perto de você:</p>
+            <button onclick="sugerirLugar('cafe')">Sugerir Café</button>
+            <p class="sugestao" id="cafe-sugestao"></p>
+        </section>
+
+        <section class="categoria">
+            <h2>🎉 Onde Festejar</h2>
+            <p>Quer sair e se divertir? Veja essa dica:</p>
+            <button onclick="sugerirLugar('festa')">Sugerir Balada</button>
+            <p class="sugestao" id="festa-sugestao"></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Conselhos de Lugares</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

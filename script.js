@@ -1,18 +1,21 @@
 const sugestoes = {
     jantar: [
-        "Restaurante Dona Flor - cozinha brasileira moderna",
-        "La Trattoria - massas italianas artesanais",
-        "Sushi Zen - rodízio japonês com vista para o mar"
+        "Armazém - cozinha contemporânea e ambiente sofisticado",
+        "Pastiera Bistro: italiano‐francês com coquetéis, ótimo para jantar com drinks",
+        "Miyagi Sushi - Restaurante japonês com rodízio, buffet e opções à la carte"
     ],
     cafe: [
-        "Café da Praça - ideal para manhãs tranquilas",
-        "Bistrô Aroma - cafés especiais e doces caseiros",
-        "Café Urbano - ambiente moderno e wi-fi rápido"
+        "Boccata Caffè e Cucina – Clássico com ótimos croissants e pratos leves,",
+        "Coffee O’Clock – Estilo industrial, dois andares, serve cafés e drinks",
+        "Café du Coin - Café especial, torrado e preparado no local, com ambiente acolhedor e intimista."
     ],
     festa: [
-        "Club Neon - balada com DJ ao vivo",
-        "Bar 42 - drinks e música ao vivo",
-        "Terraço 360 - festas ao ar livre com vista da cidade"
+        "Arena Pub - Boa estrutura para curtir, dançar e socializar com conforto. Combina festa animada com toques de requinte.",
+        "Head Hunter - Atmosfera intimista com visual contemporâneo e cardápio sofisticado. Boa escolha para quem prefere algo mais reservado, mas ainda chique.",
+        "Boni Villa Steak House - 
+        Complexo gastronômico sofisticado com carnes nobres, sushi bar e wine cave.
+Ambiente elegante, ideal para aniversários, confraternizações ou festas exclusivas.
+Possui música ao vivo em alguns dias e excelente carta de vinhos."
     ]
 };
 

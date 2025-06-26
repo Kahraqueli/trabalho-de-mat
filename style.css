@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #030303c4;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 30px 20px;
     text-align: center;
 }
@@ -18,7 +18,7 @@ main {
 }
 
 .categoria {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
@@ -28,7 +28,7 @@ main {
 button {
     padding: 10px 20px;
     background-color: #030303c4;
-    color: white;
+    color: rgb(255, 255, 255);
     border: none;
     border-radius: 5px;
     cursor: pointer;
